@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 .button {
   background-color: #8ca81c;
   color: white;
@@ -25,4 +26,12 @@
 }
 p {
   font-size: small;
+}
+
+.nav-element {
+  font-weight: bolder;
+}
+
+.header-section {
+  margin-left: 25px;
 }
