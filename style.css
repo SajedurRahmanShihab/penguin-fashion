@@ -4,11 +4,25 @@
 .button {
   background-color: #8ca81c;
   color: white;
-  padding: 10px 32px;
+  padding: 10px 28px;
   border-radius: 8px;
   font-weight: bold;
+  margin-bottom: 15px;
 }
 
 .identical-color {
   color: #fabe4c;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.header-color {
+  color: #fabe4c;
+}
+
+.shadow-header {
+  font-weight: bolder;
+}
+p {
+  font-size: small;
 }
