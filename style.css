@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+.button {
+  background-color: #8ca81c;
+  color: white;
+  padding: 18px 45px;
+  border-radius: 8px;
+  font-weight: bold;
+}
